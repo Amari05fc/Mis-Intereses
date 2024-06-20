@@ -19,7 +19,7 @@ Link al proyecto: [misIntereses](https://misintereses-fercruzh.netlify.app/)
 
 <!-- Descripción del proyecto, cómo se contruyó. -->
 ### Descripción
-Mi portafolio está diseñado con un enfoque profecional y ordenado con el cual busco reflejar mi perfil profecional. Este portafolio es también un reflejo de mi evolución como desarrollador, mostrando una variedad de proyectos que abarcan desde sitios web básicos hasta páginas más complejas. Mi objetivo es que cada visitante se lleve una impresión duradera de mi capacidad para abordar y superar desafíos técnicos con soluciones innovadoras y creativas.
+Dicho proyecto tiene la intención de practicar y demostrar mis conocimientos con dichas herramientas.
 
 <!--  Listan las herramientas: ej (HTML, CSS, JS, Bootstrap, Typewriter JS) -->
 ## Herramientas utilizadas
